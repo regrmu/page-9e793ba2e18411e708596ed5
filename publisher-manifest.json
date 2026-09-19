@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "e97af785dd157d10826a39e4",
+  "owner": "regrmu",
+  "repo": "page-9e793ba2e18411e708596ed5",
+  "title": "ClashX官方下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9e793ba2e18411e708596ed5",
+      "a": "金龙鱼分站(CTC2)",
+      "b": "ClashX官方下载",
+      "entity": "金龙鱼分站(CTC2)",
+      "brand": "ClashX官方下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "87185b5d28a6bbaf8fc207d7abf4147f39af7508443627443ee7483d2c0dac10",
+      "content": {
+        "primary_entity": "金龙鱼分站(CTC2)",
+        "keyword1": "金龙鱼分站(CTC2)",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_DESCRIPTION": "，金龙鱼分站(CTC2)提供基础版、旗舰版与团队版三档订阅，月付分别为¥15、¥35、¥85，按年付可享对应优惠。基础版每月100GB流量，支持3台设备；旗舰版每月300GB流量，支持5台设备，配备IPLC专线并针对游戏加速优化；团队版每月1000GB流量，支持20台设备并开放企业定制路由。搭配ClashX等客户端，可灵活管理订阅与节点。",
+          "AI_HERO_SUBTITLE": "多档订阅灵活选择",
+          "AI_HERO_INTRO": "金龙鱼分站(CTC2)面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档订阅方案。不同套餐在流量、设备数量与节点品质上各有侧重，可按个人或团队需求选择。",
+          "AI_VISUAL_TITLE": "金龙鱼分站 套餐任选",
+          "AI_HIGHLIGHT_1": "月付15元起，年付更划算",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线优化",
+          "AI_HIGHLIGHT_3": "最多支持20台设备在线",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURES_INTRO": "从流量、设备数与节点类型出发，选择适合自己使用场景的订阅档位。",
+          "AI_FEATURE_TITLE_1": "按需选流量档位",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度使用，旗舰版300GB满足日常追剧与游戏，团队版1000GB适合多设备共享。",
+          "AI_FEATURE_TITLE_2": "设备数量覆盖广",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台，可根据常用设备数量选择对应套餐。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付方案在对应月费基础上提供优惠，长期使用可降低平均成本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路品质上依次提升，按实际用量与设备数量选择即可。",
+          "AI_CLIENTS_TITLE": "客户端参考",
+          "AI_CLIENTS_INTRO": "根据设备系统选择合适客户端，并参考对应文档完成订阅导入与配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从挑选套餐到在客户端中导入订阅，需要依次完成几个简单环节。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据每月流量需求与常用设备数量，在基础版、旗舰版、团队版中选定一个套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端是否满足套餐的设备数量与网络环境要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成节点选择与连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松加速",
+          "AI_CLOSING_TEXT": "根据自身流量与设备需求选定档位，配合常用客户端完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，适合轻度浏览；旗舰版 300GB、5 台设备，含 IPLC 专线；团队版 1000GB、20 台设备，适合多人协作。",
+          "AI_FAQ_ANSWER_2": "可以。iOS 使用 Shadowrocket 或 Quantumult X，Android 使用 Clash for Android 或 v2rayNG，订阅链接导入后根据客户端文档配置。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。达到上限后新设备需要先断开旧设备，按需求选档即可。",
+          "AI_FAQ_ANSWER_4": "支持。三档套餐均提供按月与按年两种周期，年付仅需十个月价格，长期使用建议直接按年付，省去每月续费操作。",
+          "AI_FAQ_ANSWER_5": "基础版提供普通线路节点池与基础流媒体解锁；需要全节点原生流媒体与游戏加速优化，选旗舰版；需要高带宽与定制路由，选团队版。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "手机客户端应该选哪个？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量怎么计算？",
+          "AI_FAQ_QUESTION_4": "是否支持按年付？",
+          "AI_FAQ_QUESTION_5": "流媒体和游戏加速选哪档套餐？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "48a62b898c776483f4234846500f17897e8b643a9d341dee12524c50bddd9df7",
+    "sitemap.xml": "b25c66ed5f674fa99cbdd9cd1d43ec1b18ac28a271d08ab72de91dc59cdcc34e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b32551208a631cc51f89bcb60cb4595625e160852b835874edd7e8ee83a2a0a1"
+}
